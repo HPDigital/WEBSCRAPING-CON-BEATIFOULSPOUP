@@ -1,3 +1,7 @@
+"""
+beautiful_soup_practica
+"""
+
 # 1. Importaciones y configuración inicial
 from bs4 import BeautifulSoup
 import requests
